@@ -1,9 +1,10 @@
 # vuecoin
 
-> 用 Vue.js 手脚架生成的项目 比的信仰分析
+> 用 Vue.js 手脚架生成的项目 币的信仰分析
 
-测试地址 http://test.apm.wang/
+项目测试地址 http://test.apm.wang/
 ![Image text](https://github.com/qqqzhch/coinBelief/blob/master/weixin.jpeg)
+![Image text](https://github.com/qqqzhch/coinBelief/blob/master/demo.png)
 
 ## Build Setup
 
