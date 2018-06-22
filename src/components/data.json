@@ -1,0 +1,65 @@
+[{
+	"i": 1,
+	"name": "BTC-比特币",
+	"team": 1000,
+	"community": 1000,
+	"whitepaper": 1000,
+	"finance": 100,
+	"partners": 1,
+	"dev": 1000,
+	"checked": true
+}, {
+	"i": 2,
+	"name": "ETH-以太坊",
+	"team": 500,
+	"community": 900,
+	"whitepaper": 500,
+	"finance": 100,
+	"partners": 1000,
+	"dev": 60
+}, {
+	"i": 3,
+	"name": "XRP-瑞波币",
+	"team": 800,
+	"community": 600,
+	"whitepaper": 800,
+	"finance": 500,
+	"partners": 900,
+	"dev": 800
+}, {
+	"i": 4,
+	"name": "BCH-比特现金",
+	"team": 800,
+	"community": 800,
+	"whitepaper": 900,
+	"finance": 500,
+	"partners": 200,
+	"dev": 300
+}, {
+	"i": 5,
+	"name": "EOS-柚子",
+	"team": 100,
+	"community": 900,
+	"whitepaper": 800,
+	"finance": 100,
+	"partners": 200,
+	"dev": 500
+}, {
+	"i": 6,
+	"name": "XLM-恒星币",
+  "team": 850,
+	"community": 650,
+	"whitepaper": 850,
+	"finance": 550,
+	"partners": 950,
+	"dev": 850
+}, {
+	"i": 7,
+	"name": "ADA-艾达币",
+  "team": 400,
+	"community": 800,
+	"whitepaper": 400,
+	"finance": 50,
+	"partners": 800,
+	"dev": 30
+}]
